@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Exercício 3 – Meus Filmes Favoritos</title>
+</head>
+<body>
+
+  <h1>Meus Filmes ou Séries Favoritas</h1>
+
+  <p>Meu filme favorito é Batman: O Cavaleiro das Trevas. Gosto pela temática e pela atuação do protagonista e dos dois vilões.</p>
+
+  <ul>
+    <li>Batman</li>
+    <li>O Filme Invencível</li>
+    <li>Liga da Justiça Snyder Cut</li>
+  </ul>
+
+</body>
+</html>
