@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Página de Apresentação</title>
+</head>
+<body>
+
+  <h1>Gabriel Lincoln</h1>
+
+  <p>Eu gosto de videogames e de peças de computador.</p>
+
+  <ul>
+    <li>Filmes</li>
+    <li>Basquete</li>
+    <li>Jogos</li>
+  </ul>
+
+</body>
+</html>
