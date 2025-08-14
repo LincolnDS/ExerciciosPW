@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Blog do Cinema</title>
+</head>
+<body>
+
+  <h1>Blog do Cinema</h1>
+
+  <h2>Batman: O Cavaleiro das Trevas</h2>
+  <p>Um filme incrível pela temática sombria e atuações marcantes do protagonista e vilões.</p>
+  <ul>
+    <li>Gênero: Ação/Thriller</li>
+    <li>Duração: 152 minutos</li>
+    <li>Diretor: Christopher Nolan</li>
+  </ul>
+
+  <h2>O Filme Invencível</h2>
+  <p>Um filme que mostra superação e determinação do personagem principal.</p>
+  <ul>
+    <li>Gênero: Drama/Aventura</li>
+    <li>Duração: 126 minutos</li>
+    <li>Prêmios: Melhor Trilha Sonora</li>
+  </ul>
+
+  <h2>Liga da Justiça Snyder Cut</h2>
+  <p>Uma nova versão do filme que traz mais profundidade aos personagens e à história.</p>
+  <ul>
+    <li>Gênero: Ação/Fantasia</li>
+    <li>Duração: 242 minutos</li>
+    <li>Diretor: Zack Snyder</li>
+  </ul>
+
+</body>
+</html>
+
+
+
