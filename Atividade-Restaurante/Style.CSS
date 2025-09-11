@@ -1,0 +1,118 @@
+*{
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 0%;
+}
+nav {
+      padding: 20px;
+      float: left;
+      height: 100%;
+    }
+.navegação li{
+  margin-bottom: 2rem;
+}
+   .aside{
+    display: inline-block;
+    width: 25%;
+    vertical-align: top;
+    padding-left: 3rem;
+    font-size: 1rem;
+   }
+
+    .content {
+      max-width: 900px;
+    margin: 0 auto;
+    background-color: white;
+    height:100vh;
+    box-shadow: 0 0 10px rgba(184, 46, 46, 0.3);
+}
+    
+
+    header {
+      background-color: white;
+      color: black;
+      padding: 10px;
+      height:15%;
+      border-bottom: 2px solid #c7c7c7;
+      margin: 20px;
+    }
+
+    header h1 {
+      font-size: 3rem;
+    }
+
+    main {
+      display: inline-block;
+    width: 70%;
+    height: 65vh;
+    padding: 3rem;
+    vertical-align: top;
+    border-left: 2px solid #ccc;
+    overflow-y: auto;
+    margin-bottom: 2rem;
+    scroll-behavior: smooth;
+    }
+
+    section {
+      margin-bottom: 30px;
+    }
+
+    h2 {
+      margin-bottom: 15px;
+      border-bottom: 1px solid #ddd;
+      padding-bottom: 5px;
+    }
+
+    .prato {
+      margin-bottom: 15px;
+      overflow: auto;
+    }
+
+    .prato img {
+      float: right;
+      margin-left: 10px;
+      max-width: 200px;
+      max-height: 130px;
+      border: 1px solid #ccc;
+    }
+
+    .prato h3 {
+      margin: 5px 0;
+    }
+
+    footer {
+      background-color: #eee;
+    height: 15%;
+    padding: 1%
+    }
+
+    footer a {
+      color: #333;
+      margin-left: 15px;
+      text-decoration: none;
+      font-weight: bold;
+    }
+
+    footer ul {
+float: right; 
+
+    }
+    ul li a{
+        text-decoration: none;
+    color:gray;
+    }
+    ul{
+    list-style: none;
+}
+    footer img{
+  display: block;
+    max-width: 200px;
+    float: left;
+    padding-bottom: 1rem;
+    }
+    main img{
+    float: right;
+    width: 220px;
+    border: 2px solid gold;
+    margin-left: 15px;
+}
